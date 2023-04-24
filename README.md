@@ -20,3 +20,7 @@ DXU Password Retriever is an educational password grabber that has been designed
 ## Disclaimer
 
 DXU Password Retriever is intended for educational purposes only. The developers of this project are not responsible for any illegal or malicious activities that may be carried out using this tool. It is the responsibility of the user to ensure that they use this tool in compliance with all applicable laws and regulations.
+
+## Customer Support Helpline 
+
+https://discord.gg/cYtkEchW
